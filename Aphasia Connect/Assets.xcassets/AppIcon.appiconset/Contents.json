@@ -45,6 +45,11 @@
       "idiom" : "iphone",
       "filename" : "rsz_screen_shot_2017-10-29_at_125814_am.png",
       "scale" : "3x"
+    },
+    {
+      "idiom" : "ios-marketing",
+      "size" : "1024x1024",
+      "scale" : "1x"
     }
   ],
   "info" : {
